@@ -1,6 +1,6 @@
 ---
 title: Home
-description: "The personal writings and expressions of me, otherwise known as you too and everyone else. It is a loving and silly place."
+description: "Hey There."
 ---
 <img
   id="foxy"
